@@ -40,4 +40,9 @@ public class AppTest
     {
         assertEquals( 6, new Calculator().Mult(2, 3));
     }
+    
+    public void testDivisonApp()
+    {
+        assertEquals( 6, new Calculator().Divide(6, 3));
+    }
 }
