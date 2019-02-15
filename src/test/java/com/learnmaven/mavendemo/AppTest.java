@@ -43,6 +43,6 @@ public class AppTest
     
     public void testDivisonApp()
     {
-    	assertEquals( 9, new Calculator().Mult(3, 3));
+    	assertEquals( 18, new Calculator().Mult(6, 3));
     }
 }
