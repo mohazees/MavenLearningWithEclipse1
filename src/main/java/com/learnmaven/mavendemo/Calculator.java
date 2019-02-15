@@ -17,7 +17,7 @@ public class Calculator
 		return a*b;
 	}
 	
-	float Divide(int a, int b)
+	double Divide(int a, int b)
 	{
 		if(b==0)
 			return 0;
