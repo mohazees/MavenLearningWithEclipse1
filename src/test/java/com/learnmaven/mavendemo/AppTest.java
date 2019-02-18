@@ -41,7 +41,7 @@ public class AppTest
         assertEquals( 6, new Calculator().Mult(2, 3));
     }
     
-    public void testDivisonApp()
+    public void testMult2App()
     {
     	assertEquals( 18, new Calculator().Mult(6, 3));
     }
