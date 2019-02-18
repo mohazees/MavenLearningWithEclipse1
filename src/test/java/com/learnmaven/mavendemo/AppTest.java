@@ -45,4 +45,9 @@ public class AppTest
     {
     	assertEquals( 18, new Calculator().Mult(6, 3));
     }
+    
+    public void testMult3App()
+    {
+    	assertEquals( 20, new Calculator().Mult(5, 4));
+    }
 }
